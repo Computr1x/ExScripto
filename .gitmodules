@@ -1,3 +1,6 @@
 [submodule "TextDetection"]
 	path = TextDetection
 	url = https://github.com/Computr1x/TextDetection
+[submodule "DatasetGeneration"]
+	path = DatasetGeneration
+	url = https://github.com/Computr1x/DatasetGeneration.git
