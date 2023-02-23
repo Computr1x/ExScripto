@@ -1,6 +1,8 @@
 [submodule "TextDetection"]
 	path = TextDetection
 	url = https://github.com/Computr1x/TextDetection
+	branch = master
 [submodule "DatasetGeneration"]
 	path = DatasetGeneration
 	url = https://github.com/Computr1x/DatasetGeneration.git
+	branch = master
