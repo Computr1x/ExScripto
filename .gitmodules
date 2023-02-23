@@ -1,0 +1,3 @@
+[submodule "TextDetection"]
+	path = TextDetection
+	url = https://github.com/Computr1x/TextDetection
